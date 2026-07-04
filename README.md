@@ -105,7 +105,7 @@ This isn't a report built with drag-and-drop visuals — the visual layer *is* t
 
 1. Clone this repo
    ```bash
-   git clone https://github.com/<your-username>/adventure-works-ecommerce-pulse.git
+   https://github.com/saif146/Adventure-Works-E-Commerce-Pulse.git
    ```
 2. Open `Adventure Works E-Commerce Pulse.pbix` in **Power BI Desktop**.
 3. Install the free **HTML Content** custom visual from AppSource (required to render the custom HTML/SVG measures).
