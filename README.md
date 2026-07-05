@@ -116,6 +116,7 @@ This isn't a report built with drag-and-drop visuals — the visual layer *is* t
 ## 👤 Author
 
 **Saiful Islam**
+
 Global Operations Dashboard — designed & developed end-to-end (data modeling, DAX, and custom HTML/SVG visual design).
 
 ⭐ If you found this project interesting, consider giving it a star!
